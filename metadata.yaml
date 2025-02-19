@@ -1,0 +1,38 @@
+_repo: With-the-Empress-Dowager-of-China_75210
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Carl, Katharine A. (Katharine Augusta)
+    aliases:
+    - Carl, Katherine Augusta
+    - Carl, Katharine Augusta
+    birthdate: 1865
+    deathdate: 1938
+    gutenberg_agent_id: '57630'
+    url: http://www.gutenberg.org/2009/agents/57630
+    wikipedia: https://en.wikipedia.org/wiki/Katharine_Carl
+description: Illustrated by the author and with photographs.
+gutenberg_issued: '2025-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75210'
+language: en
+pgterms:marc904: https://archive.org/details/withempressdowag00carliala
+pgterms:marc905: 20231213081636carl
+pgterms:marc906: '1905'
+pgterms:marc907: us
+production_note: Aaron Adrignola, Richard Illner and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bThe Century Co., $c1905, pubdate 1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cixi, Empress dowager of China, 1835-1908'
+- !lcsh 'Empresses -- China -- Biography'
+- !lcsh 'China -- Court and courtiers'
+- !lcc 'DS'
+- GITenberg
+title: With the Empress Dowager of China
+url: http://www.gutenberg.org/ebooks/75210
